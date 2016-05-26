@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-26T01:09:21.867Z'
+datePublished: '2016-05-26T01:09:23.905Z'
 sourcePath: _posts/2016-04-16-cuba-on-the-edge-of-change.md
 inFeed: true
 isBasedOnUrl: 'http://www.nytimes.com/interactive/2016/03/19/world/americas/cuba-on-the-edge-of-change-photo-essay.html?_r=0'
@@ -17,7 +17,7 @@ keywords:
   - revolutionary
 related: []
 author: []
-dateModified: '2016-05-26T01:09:21.468Z'
+dateModified: '2016-05-26T01:09:23.662Z'
 title: Cuba on the Edge of Change
 app_links: []
 publisher:
@@ -28,7 +28,7 @@ publisher:
 description: 'at times can feel like a nation abandoned. The aching disrepair of its cities, the untamed foliage of its countryside, the orphaned coastlines - a half-century of isolation has wrapped the country in decay. Yet few places in the world brim with as much life as Cuba, a contrast drawn sharper amid its faded grandeur.'
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
