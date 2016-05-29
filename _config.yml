@@ -1,14 +1,3 @@
-color:
-  saturation: 0.5434800370130688
-  brandStrength: 0.7383050192147493
-  rhythmicContrast: 0.9724675987381488
-  brandColors:
-    - '#FFFFFF'
-    - '#02A456'
-    - '#EA1D24'
-    - '#F3F502'
-    - '#E19073'
-  lightness: 0.6072917128913105
 collections:
   - index:
       path: /
@@ -21,6 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-layout_spectrum: 0.4146093707531691
 typography_spectrum: 0.4407000981736928
+color:
+  saturation: 0.5434800370130688
+  brandStrength: 0.7383050192147493
+  rhythmicContrast: 0.9724675987381488
+  brandColors:
+    - '#FFFFFF'
+    - '#02A456'
+    - '#EA1D24'
+    - '#F3F502'
+    - '#E19073'
+  lightness: 0.6072917128913105
+layout_spectrum: 0.7382979
 name: THEmPOT
