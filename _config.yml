@@ -1,26 +1,26 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-typography_spectrum: 0.4407000981736928
 color:
   saturation: 0.5434800370130688
   brandStrength: 0.7383050192147493
-  lightness: 0.6072917128913105
+  rhythmicContrast: 0.9724675987381488
   brandColors:
     - '#FFFFFF'
     - '#02A456'
     - '#EA1D24'
     - '#F3F502'
     - '#E19073'
-  rhythmicContrast: 0.9724675987381488
+  lightness: 0.6072917128913105
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 layout_spectrum: 0.4146093707531691
+typography_spectrum: 0.4407000981736928
 name: THEmPOT
