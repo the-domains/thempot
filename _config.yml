@@ -1,15 +1,3 @@
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.4407000981736928
 color:
   saturation: 0.5434800370130688
@@ -22,5 +10,24 @@ color:
     - '#F3F502'
     - '#E19073'
   lightness: 0.6072917128913105
+opengraph:
+  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ec79d46-3d60-4f5b-8750-7b9731cffc96.jpg'
 layout_spectrum: 0.7382979
+author:
+  name: THEmPOT
+  email: info@THEmPOT.com
+  url: 'http://THEmPOT.com'
 name: THEmPOT
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdeedc37-8144-40ef-85b6-4518b8d5d111.jpg'
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
