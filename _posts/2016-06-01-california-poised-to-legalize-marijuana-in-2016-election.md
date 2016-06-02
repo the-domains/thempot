@@ -25,10 +25,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://blog.sfgate.com/smellthetruth/2016/05/26/california-poised-to-legalize-marijuana-in-2016-election/'
 title: California poised to legalize marijuana in 2016 election
-datePublished: '2016-06-02T05:22:57.698Z'
-dateModified: '2016-06-02T05:22:57.271Z'
+datePublished: '2016-06-02T05:23:47.556Z'
+dateModified: '2016-06-02T05:23:46.996Z'
 sourcePath: _posts/2016-06-01-california-poised-to-legalize-marijuana-in-2016-election.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
