@@ -19,12 +19,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 layout_spectrum: 0.003059609327465296
 typography_spectrum: 0.4407000981736928
 favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdeedc37-8144-40ef-85b6-4518b8d5d111.jpg'
