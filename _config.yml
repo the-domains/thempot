@@ -18,7 +18,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: THEmPOT
+title: Welcome to...
 cta:
   domain: null
   bucket: null
