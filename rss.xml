@@ -4,7 +4,7 @@
         <description><![CDATA[#THEmPOT]]></description>
         <link>http://thempot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 05:58:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 19:58:56 GMT</lastBuildDate>
         <atom:link href="http://thempot.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3bbf7ff-1bae-45d9-892c-dfc3f1423208.jpg</link>
             <guid isPermaLink="false">b56a0782-899f-4802-b1bd-ef72629a4150</guid>
             <pubDate>Tue, 07 Jun 2016 03:19:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#brucelee]]></title>
+            <description><![CDATA[<article><h1>#brucelee</h1><p>Check out "Kung Fu Fridays: ENTER THE DRAGON" http://uv.rs/29bQFOh</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/891b6cad-b5ca-45ac-9864-615c0b4f86f9.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/891b6cad-b5ca-45ac-9864-615c0b4f86f9.jpg</link>
+            <guid isPermaLink="false">026846ea-60b4-4091-85b9-7ee19cddd94b</guid>
+            <pubDate>Fri, 22 Jul 2016 19:58:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[California poised to legalize marijuana in 2016 election]]></title>
@@ -29,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Cuba on the Edge of Change]]></title>
-            <description><![CDATA[<article><h1>Cuba on the Edge of Change</h1><p>at times can feel like a nation abandoned. The aching disrepair of its cities, the untamed foliage of its countryside, the orphaned coastlines - a half-century of isolation has wrapped the country in decay. Yet few places in the world brim with as much life as Cuba, a contrast drawn sharper amid its faded grandeur.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/196de034f71ac2612a2898c9ace08482d0e1afa6.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Cuba on the Edge of Change</h1><p>at times can feel like a nation abandoned. The aching disrepair of its cities, the untamed foliage of its countryside, the orphaned coastlines - a half-century of isolation has wrapped the country in decay. Yet few places in the world brim with as much life as Cuba, a contrast drawn sharper amid its faded grandeur.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fadd80fef63f3704329bd8f3effa0b99/croprotate.jpg?cropheight=548&cropwidth=1050&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F196de034f71ac2612a2898c9ace08482d0e1afa6.jpg&x=0&y=0"></article>]]></description>
             <link>http://www.nytimes.com/interactive/2016/03/19/world/americas/cuba-on-the-edge-of-change-photo-essay.html?_r=0</link>
             <guid isPermaLink="false">f705cbb1-57c1-440f-af9b-fe639ffce43e</guid>
             <pubDate>Fri, 03 Jun 2016 01:31:23 GMT</pubDate>
