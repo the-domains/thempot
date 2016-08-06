@@ -1,7 +1,7 @@
 ---
 title: Home Page - A - PARALLAX ROTATOR
-datePublished: '2016-08-04T14:28:46.571Z'
-dateModified: '2016-07-29T20:25:50.929Z'
+datePublished: '2016-08-06T17:05:21.256Z'
+dateModified: '2016-08-06T17:05:20.973Z'
 author: []
 isBasedOnUrl: 'http://imprint.la/'
 description: >-
