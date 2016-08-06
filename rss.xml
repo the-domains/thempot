@@ -4,7 +4,7 @@
         <description><![CDATA[#THEmPOT]]></description>
         <link>http://thempot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 17:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 17:13:19 GMT</lastBuildDate>
         <atom:link href="http://thempot.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,20 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3bbf7ff-1bae-45d9-892c-dfc3f1423208.jpg</link>
             <guid isPermaLink="false">b56a0782-899f-4802-b1bd-ef72629a4150</guid>
             <pubDate>Tue, 07 Jun 2016 03:19:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[12 Indie Magazines You Should Already Be Reading]]></title>
+            <description><![CDATA[<article><h1>12 Indie Magazines You Should Already Be Reading</h1><p>Read and discover fashion news and photos from around the world</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ef780415ec6a4e44a227b7fc83fbc8d2/noop.jpg?input=http%3A%2F%2Fmedia.guestofaguest.com%2Ft_card_large%2Fgofg-media%2F2016%2F07%2F1%2F47196%2Fsumzine.jpg"></article>]]></description>
+            <link>http://guestofaguest.com/fashion/indie-mags-you-should-already-be-reading?utm_source=Guest+of+a+Guest+Newsletter&amp;utm_campaign=81dfa33b4a-Inside_Gigi_Hadid_s_New_4_Million_Pad8_3_2016&amp;utm_medium=email&amp;utm_term=0_f8ccc7597b-81dfa33b4a-94322021</link>
+            <guid isPermaLink="false">c44016b2-7d6c-491f-a2f0-408185b2808d</guid>
+            <pubDate>Sat, 06 Aug 2016 17:12:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Dos & Don'ts Of Instagram Stalking In 2016]]></title>
+            <description><![CDATA[<article><h1>The Dos & Don'ts Of Instagram Stalking In 2016</h1><p>Like every woman (and man who cares enough, but alas they never do), I am an expert social media stalker. I am who my friends call when they meet a guy and only caught his first name and the year he graduated college, or when they accidentally like something from 500 weeks ago.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dfb6841b443be3d44009cf31062bf1e6/noop.png?input=http%3A%2F%2Fmedia.guestofaguest.com%2Ft_article_content%2Fgofg-media%2F2016%2F08%2F1%2F47262%2Fscreen_shot_2016-08-03_at_12.11.26_pm.png"></article>]]></description>
+            <link>http://guestofaguest.com/new-york/instagram/the-dos-and-donts-of-instagram-stalking-in-2016</link>
+            <guid isPermaLink="false">cd8af815-9c00-4263-95b3-c4bb42cb095a</guid>
+            <pubDate>Sat, 06 Aug 2016 17:12:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Home]]></title>
@@ -61,20 +75,6 @@
             <link>http://blog.sfgate.com/smellthetruth/2016/05/26/california-poised-to-legalize-marijuana-in-2016-election/</link>
             <guid isPermaLink="false">b37fb670-1b77-44f3-b980-8e2ce012428b</guid>
             <pubDate>Fri, 03 Jun 2016 01:31:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29decb04-c5b0-4768-b1a1-53b2483562a5.png">]]></description>
-            <link>http://thempot.com/36511178-e909-474f-81db-5e2e7b4901d8/index.html</link>
-            <guid isPermaLink="false">36511178-e909-474f-81db-5e2e7b4901d8</guid>
-            <pubDate>Fri, 03 Jun 2016 01:31:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuba on the Edge of Change]]></title>
-            <description><![CDATA[<article><h1>Cuba on the Edge of Change</h1><p>at times can feel like a nation abandoned. The aching disrepair of its cities, the untamed foliage of its countryside, the orphaned coastlines - a half-century of isolation has wrapped the country in decay. Yet few places in the world brim with as much life as Cuba, a contrast drawn sharper amid its faded grandeur.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fadd80fef63f3704329bd8f3effa0b99/croprotate.jpg?cropheight=548&cropwidth=1050&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F196de034f71ac2612a2898c9ace08482d0e1afa6.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.nytimes.com/interactive/2016/03/19/world/americas/cuba-on-the-edge-of-change-photo-essay.html?_r=0</link>
-            <guid isPermaLink="false">f705cbb1-57c1-440f-af9b-fe639ffce43e</guid>
-            <pubDate>Fri, 03 Jun 2016 01:31:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
