@@ -6,33 +6,33 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0
   brandStrength: 1
-  lightness: 1
+  rhythmicContrast: 0.5085106
   brandColors:
     - '#FFFFFF'
     - '#EC1C24'
     - '#01A654'
     - '#2E3192'
     - '#B4B4B4'
-  rhythmicContrast: 0.5085106
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdeedc37-8144-40ef-85b6-4518b8d5d111.jpg
+  lightness: 1
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdeedc37-8144-40ef-85b6-4518b8d5d111.jpg
+cta:
+  bucket: null
+  version: null
+  domain: null
 author:
   name: THEmPOT
   email: info@THEmPOT.com
@@ -44,4 +44,4 @@ opengraph:
   appId: null
 name: THEmPOT
 typography_spectrum: 0.1
-layout_spectrum: 0.9255319
+layout_spectrum: 0.1659575
