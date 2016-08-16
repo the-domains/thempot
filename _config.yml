@@ -13,26 +13,26 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0
+  saturation: 0.3489362
   brandStrength: 1
-  lightness: 0.306383
+  lightness: 0.5595745
   brandColors:
     - '#FFFFFF'
     - '#EC1C24'
     - '#01A654'
     - '#2E3192'
     - '#B4B4B4'
-  rhythmicContrast: 0.5085106
+  rhythmicContrast: 0.3829787
 cta:
   bucket: null
   version: null
   domain: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdeedc37-8144-40ef-85b6-4518b8d5d111.jpg
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdeedc37-8144-40ef-85b6-4518b8d5d111.jpg
 author:
   name: THEmPOT
   email: info@THEmPOT.com
