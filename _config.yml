@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.003038003807887435
   brandStrength: 0.06843773508444428
@@ -44,4 +44,4 @@ opengraph:
   appId: null
 name: THEmPOT
 typography_spectrum: 0.4407000981736928
-layout_spectrum: 0.3276596
+layout_spectrum: 0.9255319
