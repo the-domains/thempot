@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.6445002
-  brandStrength: 1
-  lightness: 0.6468085
+  saturation: 0.5093729884829372
+  brandStrength: 0.4785536478739232
+  lightness: 0.19115238054655492
   brandColors:
     - '#FFFFFF'
-    - '#EC1C24'
-    - '#01A654'
+    - '#ED1B24'
+    - '#00A654'
     - '#2E3190'
-    - '#F98C66'
-  rhythmicContrast: 0.1146056
+    - '#EFA48C'
+  rhythmicContrast: 0.973789979936555
 cta:
   bucket: null
   version: null
@@ -43,5 +43,5 @@ analytics:
   twitter: null
   google: null
   facebook: null
-typography_spectrum: 0.1148936
-layout_spectrum: 0.1659575
+typography_spectrum: 0.015288353664800525
+layout_spectrum: 0.31791140511631966
