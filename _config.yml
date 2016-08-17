@@ -1,47 +1,47 @@
-typography_spectrum: 0.5419433698989451
-color:
-  saturation: 0.6445001813117415
-  brandStrength: 0.08247696422040462
-  lightness: 0.15089471475221217
-  brandColors:
-    - '#FFFFFF'
-    - '#ED1B24'
-    - '#00A654'
-    - '#2E3190'
-    - '#EFA48C'
-  rhythmicContrast: 0.11460556741803885
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ec79d46-3d60-4f5b-8750-7b9731cffc96.jpg
-  type: null
-  appId: null
-layout_spectrum: 0.1659575
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-author:
-  name: THEmPOT
-  email: info@THEmPOT.com
-  url: 'http://THEmPOT.com'
-name: THEmPOT
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdeedc37-8144-40ef-85b6-4518b8d5d111.jpg
+title: ''
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: ''
-purpose: []
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.6445002
+  brandStrength: 0.08247696422040462
+  lightness: 0.6468085
+  brandColors:
+    - '#FFFFFF'
+    - '#ED1B24'
+    - '#00A654'
+    - '#2E3190'
+    - '#EFA48C'
+  rhythmicContrast: 0.1146056
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdeedc37-8144-40ef-85b6-4518b8d5d111.jpg
+author:
+  name: THEmPOT
+  email: info@THEmPOT.com
+  url: 'http://THEmPOT.com'
+name: THEmPOT
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ec79d46-3d60-4f5b-8750-7b9731cffc96.jpg
+  type: null
+  appId: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+typography_spectrum: 0.1148936
+layout_spectrum: 0.1659575
