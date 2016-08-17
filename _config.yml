@@ -29,11 +29,11 @@ cta:
   domain: null
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdeedc37-8144-40ef-85b6-4518b8d5d111.jpg
+name: THEmPOT
 author:
   name: THEmPOT
   email: info@THEmPOT.com
   url: 'http://THEmPOT.com'
-name: THEmPOT
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ec79d46-3d60-4f5b-8750-7b9731cffc96.jpg
