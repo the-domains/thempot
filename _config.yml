@@ -1,20 +1,31 @@
-title: ''
+name: THEmPOT
+analytics: {}
 purpose: []
+github: true
+description: "\uD83C\uDF08#THEmPOT celebrates+curates multicolors+multicultures of the multiverse... Please support our multimedia+THEmPOT POP-UP SHOP info@THEmPOT.com\uD83C\uDF08"
+author:
+  name: THEmPOT
+  url: 'http://THEmPOT.com'
+  email: info@THEmPOT.com
+cta:
+  bucket: null
+  version: null
+  domain: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+content: []
+layout_spectrum: 0.1659575
 color:
-  saturation: 0.7723404
-  brandStrength: 0
   lightness: 0.7872341
   brandColors:
     - '#FFFFFF'
@@ -22,26 +33,15 @@ color:
     - '#01A654'
     - '#2E3190'
     - '#F98C66'
+  saturation: 0.7723404
+  brandStrength: 0
   rhythmicContrast: 0.7617021
-cta:
-  bucket: null
-  version: null
-  domain: null
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdeedc37-8144-40ef-85b6-4518b8d5d111.jpg
-author:
-  name: THEmPOT
-  email: info@THEmPOT.com
-  url: 'http://THEmPOT.com'
-name: THEmPOT
+content_rating:
+  adult: false
+typography_spectrum: 0.1148936
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ec79d46-3d60-4f5b-8750-7b9731cffc96.jpg
-  type: null
-  appId: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-typography_spectrum: 0.1148936
-layout_spectrum: 0.1659575
+title: THEmPOT
