@@ -1,5 +1,6 @@
 name: THEmPOT
-analytics: {}
+analytics:
+  google: UA-74646185-1
 purpose: []
 github: true
 description: "\uD83C\uDF08#THEmPOT celebrates+curates multicolors+multicultures of the multiverse... Please support our multimedia+THEmPOT POP-UP SHOP info@THEmPOT.com\uD83C\uDF08"
@@ -17,12 +18,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 content: []
 layout_spectrum: 0.1659575
 color:
