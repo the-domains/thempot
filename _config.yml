@@ -2,7 +2,10 @@ name: THEmPOT
 analytics:
   facebook: '233560110358876'
   google: UA-74646185-1
-purpose: []
+purpose:
+  - type: contact
+    url: 'mailto:info@THEmPOT.com'
+    label: Contact
 github: true
 description: "\uD83C\uDF08 #THEmPOT celebrates+curates multicolors+multicultures of the multiverse... Please support our multimedia+THEmPOT POP-UP SHOP info@THEmPOT.com \uD83C\uDF08"
 author:
