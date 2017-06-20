@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-06-20T05:07:48.963Z'
-dateModified: '2017-06-20T05:07:31.677Z'
+datePublished: '2017-06-20T05:12:22.085Z'
+dateModified: '2017-06-20T05:12:02.121Z'
 description: ''
 via: {}
 sourcePath: _posts/2017-06-20-httpsgooglforms2mdjoyb3frikbmha2.md
@@ -15,6 +15,6 @@ datePublishedOriginal: '2017-06-20T04:50:08.538Z'
 _type: MediaObject
 
 ---
-[Sign Up For THEmPOT Monthly Newletter Now!][0]
+[Sign Up Now For THEmPOT Monthly Newsletter!][0]
 
 [0]: https://goo.gl/forms/2nTqbN9me1UKWbe33
