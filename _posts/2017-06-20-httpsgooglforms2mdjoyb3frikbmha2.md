@@ -1,8 +1,8 @@
 ---
 publisher: {}
-datePublished: '2017-06-20T05:14:52.329Z'
-dateModified: '2017-06-20T05:14:49.638Z'
-description: 'https://goo.gl/forms/2nTqbN9me1UKWbe33'
+datePublished: '2017-06-20T05:16:00.827Z'
+dateModified: '2017-06-20T05:15:45.598Z'
+description: ''
 via: {}
 sourcePath: _posts/2017-06-20-httpsgooglforms2mdjoyb3frikbmha2.md
 title: ''
@@ -15,7 +15,6 @@ datePublishedOriginal: '2017-06-20T04:50:08.538Z'
 _type: MediaObject
 
 ---
-https://goo.gl/forms/2nTqbN9me1UKWbe33
 [Sign Up Now For THEmPOT Monthly Newsletter!][0]
 
 [0]: https://goo.gl/forms/2nTqbN9me1UKWbe33
