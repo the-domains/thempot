@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[THEmPOT]]></title>
+        <description><![CDATA[THEmPOT]]></description>
+        <link>http://thempot.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 29 Oct 2017 18:00:30 GMT</lastBuildDate>
+        <atom:link href="http://thempot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[THEmPOT (thempot) on Mix]]></title>
+            <description><![CDATA[<article><h1>THEmPOT (thempot) on Mix</h1><img src="https://d2xuupin39grhy.cloudfront.net/uploads/2017/9/27/44541-1509139464990.jpeg"></article>]]></description>
+            <link>https://mix.com/thempot</link>
+            <guid isPermaLink="false">d7654042-fe43-4675-a8e8-1b816ea02bc1</guid>
+            <pubDate>Sun, 29 Oct 2017 18:00:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
