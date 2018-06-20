@@ -1,4 +1,4 @@
-name: THEmPOT
+name: '#THEmPOT'
 analytics:
   facebook: '233560110358876'
   google: UA-74646185-1
@@ -22,12 +22,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content: []
 layout_spectrum: 0.1659575
 color:
