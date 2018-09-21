@@ -47,7 +47,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: THEmPOT
+title: ''
 content: []
 description: ''
 purpose:
