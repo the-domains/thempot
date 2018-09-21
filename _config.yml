@@ -50,7 +50,4 @@ collections:
 title: ''
 content: []
 description: ''
-purpose:
-  - type: contact
-    url: 'mailto:info@THEmPOT.com'
-    label: Contact
+purpose: []
