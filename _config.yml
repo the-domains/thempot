@@ -49,7 +49,7 @@ collections:
       path: '/:title/'
 title: THEmPOT
 content: []
-description: "\uD83C\uDF08 #THEmPOT celebrates+curates multicolors+multicultures of the multiverse... Please support our multimedia+THEmPOT POP-UP SHOP info@THEmPOT.com \uD83C\uDF08"
+description: ''
 purpose:
   - type: contact
     url: 'mailto:info@THEmPOT.com'
