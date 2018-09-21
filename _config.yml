@@ -1,21 +1,40 @@
-name: '#THEmPOT'
+typography_spectrum: 0.1148936
+content_rating:
+  adult: false
+color:
+  lightness: 0.7872341
+  brandColors:
+    - '#FFFFFF'
+    - '#EC1C24'
+    - '#01A654'
+    - '#2E3190'
+    - '#F98C66'
+  saturation: 0.7723404
+  brandStrength: 0
+  rhythmicContrast: 0.7617021
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ec79d46-3d60-4f5b-8750-7b9731cffc96.jpg
+layout_spectrum: 0.1659575
 analytics:
   facebook: '233560110358876'
   google: UA-74646185-1
-purpose:
-  - type: contact
-    url: 'mailto:info@THEmPOT.com'
-    label: Contact
-github: true
-description: "\uD83C\uDF08 #THEmPOT celebrates+curates multicolors+multicultures of the multiverse... Please support our multimedia+THEmPOT POP-UP SHOP info@THEmPOT.com \uD83C\uDF08"
 author:
   name: THEmPOT
   url: 'http://THEmPOT.com'
   email: info@THEmPOT.com
+name: '#THEmPOT'
 cta:
   bucket: null
   version: null
   domain: null
+navigation:
+  - name: About/Contact
+    id: c6cca291-7849-457e-87cf-fc965963cd18
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdeedc37-8144-40ef-85b6-4518b8d5d111.jpg
 collections:
   - index:
       path: /
@@ -28,25 +47,10 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-content: []
-layout_spectrum: 0.1659575
-color:
-  lightness: 0.7872341
-  brandColors:
-    - '#FFFFFF'
-    - '#EC1C24'
-    - '#01A654'
-    - '#2E3190'
-    - '#F98C66'
-  saturation: 0.7723404
-  brandStrength: 0
-  rhythmicContrast: 0.7617021
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdeedc37-8144-40ef-85b6-4518b8d5d111.jpg
-content_rating:
-  adult: false
-typography_spectrum: 0.1148936
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ec79d46-3d60-4f5b-8750-7b9731cffc96.jpg
 title: THEmPOT
+content: []
+description: "\uD83C\uDF08 #THEmPOT celebrates+curates multicolors+multicultures of the multiverse... Please support our multimedia+THEmPOT POP-UP SHOP info@THEmPOT.com \uD83C\uDF08"
+purpose:
+  - type: contact
+    url: 'mailto:info@THEmPOT.com'
+    label: Contact
