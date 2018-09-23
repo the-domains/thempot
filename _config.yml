@@ -30,7 +30,7 @@ cta:
   version: null
   domain: null
 navigation:
-  - name: About/Contact
+  - name: About
     id: c6cca291-7849-457e-87cf-fc965963cd18
     type: content
 favicon: >-
