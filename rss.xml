@@ -4,11 +4,12 @@
         <description><![CDATA[#THEmPOT]]></description>
         <link>http://thempot.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Oct 2018 19:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Oct 2018 19:30:29 GMT</lastBuildDate>
         <atom:link href="http://thempot.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 11 Oct 2018 19:30:28 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>🌈 instagram.com/THEmPOT</p>]]></description>
+            <description><![CDATA[<p>🌈 <a href="http://instagram.com/THEmPOT" title="">instagram.com/THEmPOT</a></p>]]></description>
             <link>http://thempot.com/instagramcomthempot/index.html</link>
             <guid isPermaLink="false">d62a4b65-3546-4403-960c-cd3b0da9a49c</guid>
             <pubDate>Thu, 11 Oct 2018 19:25:34 GMT</pubDate>
