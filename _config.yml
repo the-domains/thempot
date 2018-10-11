@@ -1,5 +1,6 @@
-layout_spectrum: 0.3420782525448295
 typography_spectrum: 0.5906358503700593
+content_rating:
+  adult: false
 color:
   lightness: 0.553041023243274
   brandColors:
@@ -11,14 +12,11 @@ color:
   saturation: 0.6798864493135474
   brandStrength: 0.8570413060412548
   rhythmicContrast: 0.5034698492958035
-coverPrefs:
-  filter: false
-content_rating:
-  adult: false
 github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ec79d46-3d60-4f5b-8750-7b9731cffc96.jpg
+layout_spectrum: 0.3420782525448295
 analytics:
   facebook: '233560110358876'
   google: UA-74646185-1
@@ -38,6 +36,9 @@ navigation:
   - name: Contact
     id: 549372c3-e8cf-4b82-b184-811b14f9d438
     type: content
+  - name: Social
+    id: d62a4b65-3546-4403-960c-cd3b0da9a49c
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdeedc37-8144-40ef-85b6-4518b8d5d111.jpg
 collections:
@@ -54,5 +55,7 @@ collections:
       path: '/:title/'
 title: ''
 content: []
+coverPrefs:
+  filter: false
 description: ''
 purpose: []
