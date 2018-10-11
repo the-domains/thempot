@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: "\uD83C\uDF08 instagram.com/THEmPOT"
-dateModified: '2018-10-11T20:19:37.672Z'
-datePublished: '2018-10-11T20:19:38.504Z'
+dateModified: '2018-10-11T20:21:19.165Z'
+datePublished: '2018-10-11T20:21:20.324Z'
 title: ''
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2018-10-11T19:25:34.221Z'
 url: instagramcomthempot/index.html
-_type: Article
+_type: MediaObject
 
 ---
 🌈 [instagram.com/THEmPOT][0]
