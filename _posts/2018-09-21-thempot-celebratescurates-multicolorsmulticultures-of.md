@@ -1,8 +1,8 @@
 ---
 inFeed: false
-description: "\uD83C\uDF08 #THEmPOT celebrates+curates multicolors+multicultures of the multiverse... Please support our multimedia+THEmPOT POP-UP SHOP info@THEmPOT.com \uD83C\uDF08"
-dateModified: '2018-09-22T00:49:14.870Z'
-datePublished: '2018-09-22T00:49:16.216Z'
+description: "\U0001F308 #THEmPOT celebrates+curates multicolors+multicultures of the multiverse... Please support our multimedia+THEmPOT POP-UP SHOP \U0001F308"
+dateModified: '2019-01-06T22:26:37.618Z'
+datePublished: '2019-01-06T22:26:38.594Z'
 title: ''
 author: []
 publisher: {}
@@ -15,4 +15,4 @@ url: thempot-celebratescurates-multicolorsmulticultures-of/index.html
 _type: Blurb
 
 ---
-🌈 \#THEmPOT celebrates+curates multicolors+multicultures of the multiverse... Please support our multimedia+THEmPOT POP-UP SHOP info@THEmPOT.com 🌈
+🌈 \#THEmPOT celebrates+curates multicolors+multicultures of the multiverse... Please support our multimedia+THEmPOT POP-UP SHOP 🌈
