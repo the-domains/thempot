@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: "\U0001F308 #THEmPOT celebrates+curates multicolors+multicultures of the multiverse... Please support our multimedia+THEmPOT POP-UP SHOP \U0001F308"
-dateModified: '2019-01-06T23:58:28.805Z'
-datePublished: '2019-01-06T23:58:29.549Z'
+dateModified: '2019-01-07T01:08:51.048Z'
+datePublished: '2019-01-07T01:08:52.248Z'
 title: ''
 author: []
 publisher: {}
