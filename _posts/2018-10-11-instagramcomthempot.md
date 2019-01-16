@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: "\U0001F308 What else would you like to see featured on #THEmPOT ? Let us know! \U0001F308 instagram.com/THEmPOT"
-dateModified: '2019-01-07T19:35:58.054Z'
-datePublished: '2019-01-07T19:35:58.797Z'
+dateModified: '2019-01-16T05:27:43.085Z'
+datePublished: '2019-01-16T05:27:44.185Z'
 title: ''
 author: []
 publisher: {}
